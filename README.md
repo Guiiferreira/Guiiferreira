@@ -2,7 +2,7 @@
 
 
 
-- 🔭 No momento sou estudade de Engenharia de Software
+- 🔭 No momento sou estudante de Engenharia de Software
 - 🌱 Estudando JavaScript
 
 ##
